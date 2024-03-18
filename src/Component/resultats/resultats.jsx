@@ -9,11 +9,11 @@ const Result = () =>{
                 <div className="container">
                     <div className="content">
                         <form action=""/>
-                            Identifiant : <input type="text" name="identifiant" id=""/><br/>
-                            <br/><button class="">Rechercher</button> 
+                            Identifiant : <input type="text" name="identifiant" /><br/>
+                            <br/><button >Rechercher</button> 
                         
                     </div>
-                    <div class="cont">
+                    <div className="cont">
                     <p>Tapez l'identifiant de l'éléve pour afficher ses résultats</p>
                     </div>
     
